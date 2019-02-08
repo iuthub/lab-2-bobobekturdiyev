@@ -1,0 +1,25 @@
+body{
+	background: #595547;
+	color: #ffffff;
+	font-family: Myriad Pro;
+}
+h2.main{
+	color: #9FC2F8;
+	font-size: 48px
+}
+
+.char{
+	color: #F1EF69;
+}
+
+.title{
+	color: #9FC2F8;
+}
+
+a{
+	color: #E04F4B;
+}
+
+img{
+	height: 200px;
+}
